@@ -1,0 +1,16 @@
+D:\VS2017\AI\Emgu0625\Emgu0625\bin\Debug\Emgu0625.exe
+D:\VS2017\AI\Emgu0625\Emgu0625\bin\Debug\Emgu0625.pdb
+D:\VS2017\AI\Emgu0625\Emgu0625\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+D:\VS2017\AI\Emgu0625\Emgu0625\bin\Debug\Emgu.CV.UI.dll
+D:\VS2017\AI\Emgu0625\Emgu0625\bin\Debug\Emgu.CV.UI.GL.dll
+D:\VS2017\AI\Emgu0625\Emgu0625\bin\Debug\Emgu.CV.World.dll
+D:\VS2017\AI\Emgu0625\Emgu0625\bin\Debug\ZedGraph.dll
+D:\VS2017\AI\Emgu0625\Emgu0625\bin\Debug\Emgu.CV.UI.xml
+D:\VS2017\AI\Emgu0625\Emgu0625\bin\Debug\Emgu.CV.UI.GL.xml
+D:\VS2017\AI\Emgu0625\Emgu0625\bin\Debug\Emgu.CV.World.xml
+D:\VS2017\AI\Emgu0625\Emgu0625\obj\Debug\Emgu0625.csprojResolveAssemblyReference.cache
+D:\VS2017\AI\Emgu0625\Emgu0625\obj\Debug\Emgu0625.Form1.resources
+D:\VS2017\AI\Emgu0625\Emgu0625\obj\Debug\Emgu0625.Properties.Resources.resources
+D:\VS2017\AI\Emgu0625\Emgu0625\obj\Debug\Emgu0625.csproj.GenerateResource.Cache
+D:\VS2017\AI\Emgu0625\Emgu0625\obj\Debug\Emgu0625.exe
+D:\VS2017\AI\Emgu0625\Emgu0625\obj\Debug\Emgu0625.pdb
